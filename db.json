@@ -1,0 +1,80 @@
+{
+    "tabla1":[
+        {
+            "link": "Hércules", 
+            "linkId": "hercules",
+            "id": "herc", 
+            "titulo": "Hércules (Hércules 1998)", 
+            "img": "Hercules Disney.png", 
+            "desc": "Hércules, de la película Disney del mismo nombre, es un semidiós hijo de Zeus, es decir, es un ser inmortal con poderes sobrehumanos. Entre sus habilidades se encuentra la superfuerza, la cual es su poder signatura. Así como una resistencia que le permite soportar sus propios actos. Además posee una velocidad mejorada. Además de sus habilidades propias de un semidiós, Hércules también es un hábil guerrero entrenado en el uso de varias armas como espadas, lanzas y arco y flecha. Esto se puede intuir al ver la forma de su cuerpo; la cual es un triángulo invertido, popular en diseño de héroes; y sirve para indicarnos que este personaje posee gran fuerza."
+        },
+        {
+            "link": "Jafar", 
+            "linkId": "jafar",
+            "id": "jaf", 
+            "titulo": "Jafar (Aladdin 1992)", 
+            "img": "Jaffar.png", 
+            "desc": "Las formas triángulares son bastante utilizadas para los villanos debido a que solemos asociarlas con peligro. Jafar es el villano de la película Aladdín y la silueta triangular creada por su traje con anchas hombreras puede darnos una pista al respecto. Además del peligro con el que se suele asociar esta figura, Jafar también es oportunista, puesto que se aprovecha de los que están a su alrededor para conseguir lo que quiere. Hechiza al Sultán para poder tener al reino bajó su poder y también mandó a apresar a Aladdin sólo para poder manipularlo y enviarlo a la Cueva de las Maravillas a traer la lámpara mágica bajo la promesa de que compartirían la recompensa después, y luego de que este se la entregará pretendía asesinarlo. Jafar también es un mago con poderes hipnóticos y de predicción del futuro. Y es también muy impulsivo, ya que al obtener la lámpara mágica y tener el poder de pedir 3 deseos, pide 3 cosas que quería en ese momento sin tomar en consideración ningún otro factor."
+        },
+        {
+            "link": "Phineas Flynn", 
+            "linkId": "phineasFlynn",
+            "id": "phin", 
+            "titulo": "Phineas Flynn (Phineas y Ferb 2007-2015)", 
+            "img": "Phineas_Flynn.png", 
+            "desc": "Phineas Flynn de la serie Phineas y Ferb, es un niño de unos 10 años que junto a su hermano Ferb y sus amigos construye en su patio trasero cosas imposibles, como una montaña rusa, una playa y un edificio que sale de la atmósfera terrestre, entre otros. Phineas es bastante determinado y no deja que el que los demás consideren que sus proyectos son imposibles de realizar lo detenga."
+        }
+    ],
+    "tabla2":[
+        {
+            "link": "Baymax", 
+            "linkId": "baymax",
+            "id": "bay", 
+            "titulo": "Baymax (Grandes Héroes 2014)", 
+            "img": "baymax.png", 
+            "desc": "Baymax de la película “Grandes Héroes” es un gran ejemplo de la personalidad cuidadora que suelen tener los personajes circulares, ya que, él fue concebido con este exclusivo propósito en mente. Baymax es un robot con inteligencia artificial diseñado por Tadashi Hamada (el hermano mayor del protagonista de esta película) para ser un asistente médico producido en masa. Baymax acude a ayudar al momento de escuchar sonidos de dolor o angustia y solo puede ser apagado si el paciente asegura estar satisfecho con su cuidado. Baymax tiene esta forma redondeada específicamente para verse más amigable e inofensivo."
+        },
+        {
+            "link": "Mike Wazowski", 
+            "linkId": "mikeWazowski ",
+            "id": "mike", 
+            "titulo": "Mike Wazowski (Monsters, Inc. 2001)", 
+            "img": "Mike.png", 
+            "desc": "Mike Wazowski, es un personaje del tipo everyman. El hombre común es una variante del personaje común en los medios narrativos, como novelas, obras de teatro, series de televisión y películas. Un personaje ordinario y humilde, el hombre común es generalmente un protagonista, cuya conducta benigna fomenta la amplia identificación del público con él. Además, aunque por su apariencia parezca ser más bien inofensivo, y en terminos de fuerza física lo es, también es un personaje muy astuto, tiene una mente estrátegica y es muy hábil con las palabras, por lo cual podríamos considerarlo un personaje con poder."
+        },
+        {
+            "link": "Winnie Pooh", 
+            "linkId": "winniePooh",
+            "id": "wp", 
+            "titulo": "Winnie Pooh (Winnie-the-Pooh)", 
+            "img": "Winnie Pooh.png", 
+            "desc": "Winnie the Pooh es un oso de peluche, amigable y amable, que es inocente y tiene una actitud infantil. Es extremadamente ingenuo y simple. Además de ser muy optimista aún en tiempos de desesperación."
+        }
+    ],
+    "tabla3":[
+        {
+            "link": "Hunk Garrett", 
+            "linkId": "hunkGarrett",
+            "id": "hunk", 
+            "titulo": "Hunk Garrett (Voltron Defensor Legendario 2016-2018)", 
+            "img": "Hunk.png", 
+            "desc": "Hunk es el Paladín del León Amarillo en la serie animada “Voltron: El defensor Legendario”. A pesar de que al principio era nervioso y cobarde, y no quería ser parte del equipo “Voltron”, sin embargo, después de ver los horrores de la guerra alienígena se convierte en un verdadero Paladín, se vuelve decidido y deja atrás sus temores. Él es cauteloso, lógico y firme en sus creencias. Su presencia ayuda disminuir la tensión en situaciones estresantes y es de ayuda en el campo de batalla. Es decir demuestra en características típicas de los personajes de forma rectangular como son la confiabilidad, la confianza y es la estabilidad del grupo. Además de que su personaje es un guerrero."
+        },
+        {
+            "link": "James P. Sullivan", 
+            "linkId": "jamesPSullivan",
+            "id": "jps", 
+            "titulo": "James P. Sullivan (Monsters, Inc. 2001)", 
+            "img": "sully.png", 
+            "desc": "James P. Sullivan o Sulley de Monsters Inc es un monstruo que trabaja en una compañía dedicada a asustar niños para usar sus gritos como energía. Él, como otros personajes de forma rectangular, tiene una apariencia un tanto intimidante, lo cual lo hace perfecto para su trabajo como “asustador”. Sully, haciendo honor a las características que se se la atribuyen por su figura rectangular, es también perseverante e incluso puede llegar a considerarse obstinado o terco; Sully trabajó duro para llegar a ser asustador e incluso se volvió el mejor en la compañía. También inspira confianza y una sensación de familiaridad en quienes lo rodean, tanto así, que terminó volviéndose una especie de figura paterna una niña que terminó perdida en el mundo de los monstruos a la que él llama Boo."
+        },
+        {
+            "link": "Profesor Utonium", 
+            "linkId": "profesorUtonium",
+            "id": "pu", 
+            "titulo": "Profesor Utonium (Las Chicas Superpoderosas)", 
+            "img": "Profesor Utonio.png", 
+            "desc": "El profesor Utonium refleja con su figura rectangular su personalidad confiable y familiar al desempeñar el rol como el padre de las chicas Superpoderosas."
+        }
+    ]
+}
